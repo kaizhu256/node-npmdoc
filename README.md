@@ -1,33 +1,33 @@
-# npmtest
+# npmdoc
 the greatest app in the world!
 
-[![travis-ci.org build-status](https://api.travis-ci.org/kaizhu256/node-npmtest.svg)](https://travis-ci.org/kaizhu256/node-npmtest) [![istanbul-coverage](https://kaizhu256.github.io/node-npmtest/build/coverage.badge.svg)](https://kaizhu256.github.io/node-npmtest/build/coverage.html/index.html)
+[![travis-ci.org build-status](https://api.travis-ci.org/kaizhu256/node-npmdoc.svg)](https://travis-ci.org/kaizhu256/node-npmdoc) [![istanbul-coverage](https://kaizhu256.github.io/node-npmdoc/build/coverage.badge.svg)](https://kaizhu256.github.io/node-npmdoc/build/coverage.html/index.html)
 
-[![NPM](https://nodei.co/npm/npmtest.png?downloads=true)](https://www.npmjs.com/package/npmtest)
+[![NPM](https://nodei.co/npm/npmdoc.png?downloads=true)](https://www.npmjs.com/package/npmdoc)
 
-[![npmPackageListing](https://kaizhu256.github.io/node-npmtest/build/screenCapture.npmPackageListing.svg)](https://github.com/kaizhu256/node-npmtest)
+[![npmPackageListing](https://kaizhu256.github.io/node-npmdoc/build/screenCapture.npmPackageListing.svg)](https://github.com/kaizhu256/node-npmdoc)
 
-![npmPackageDependencyTree](https://kaizhu256.github.io/node-npmtest/build/screenCapture.npmPackageDependencyTree.svg)
+![npmPackageDependencyTree](https://kaizhu256.github.io/node-npmdoc/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
 # cdn download
-- [https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/app/assets.npmtest.rollup.js](https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/app/assets.npmtest.rollup.js)
+- [https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/app/assets.npmdoc.rollup.js](https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/app/assets.npmdoc.rollup.js)
 
 
 
 # live demo
-- [https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/app/index.html](https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/app/index.html)
+- [https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/app/index.html](https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/app/index.html)
 
-[![github.com test-server](https://kaizhu256.github.io/node-npmtest/build/screenCapture.deployGithub.browser.%252Fnode-npmtest%252Fbuild%252Fapp%252Findex.html.png)](https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/app/index.html)
+[![github.com test-server](https://kaizhu256.github.io/node-npmdoc/build/screenCapture.deployGithub.browser.%252Fnode-npmdoc%252Fbuild%252Fapp%252Findex.html.png)](https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/app/index.html)
 
 
 
 # documentation
 #### apidoc
-- [https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/apidoc.html](https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/apidoc.html)
+- [https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/apidoc.html](https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/apidoc.html)
 
-[![apidoc](https://kaizhu256.github.io/node-npmtest/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fkaizhu256%252Fnode-npmtest%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://kaizhu256.github.io/node-npmdoc/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fkaizhu256%252Fnode-npmdoc%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/apidoc.html)
 
 #### todo
 - none
@@ -40,16 +40,16 @@ the greatest app in the world!
 
 
 
-# build status [![travis-ci.org build-status](https://api.travis-ci.org/kaizhu256/node-npmtest.svg)](https://travis-ci.org/kaizhu256/node-npmtest)
-[![build commit status](https://kaizhu256.github.io/node-npmtest/build/build.badge.svg)](https://travis-ci.org/kaizhu256/node-npmtest)
+# build status [![travis-ci.org build-status](https://api.travis-ci.org/kaizhu256/node-npmdoc.svg)](https://travis-ci.org/kaizhu256/node-npmdoc)
+[![build commit status](https://kaizhu256.github.io/node-npmdoc/build/build.badge.svg)](https://travis-ci.org/kaizhu256/node-npmdoc)
 
-| git-branch : | [master](https://github.com/kaizhu256/node-npmtest/tree/master) | [beta](https://github.com/kaizhu256/node-npmtest/tree/beta) | [alpha](https://github.com/kaizhu256/node-npmtest/tree/alpha)|
+| git-branch : | [master](https://github.com/kaizhu256/node-npmdoc/tree/master) | [beta](https://github.com/kaizhu256/node-npmdoc/tree/beta) | [alpha](https://github.com/kaizhu256/node-npmdoc/tree/alpha)|
 |--:|:--|:--|:--|
-| test-server-github : | [![github.com test-server](https://kaizhu256.github.io/node-npmtest/GitHub-Mark-32px.png)](https://kaizhu256.github.io/node-npmtest/build..master..travis-ci.org/app/index.html) | [![github.com test-server](https://kaizhu256.github.io/node-npmtest/GitHub-Mark-32px.png)](https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/app/index.html) | [![github.com test-server](https://kaizhu256.github.io/node-npmtest/GitHub-Mark-32px.png)](https://kaizhu256.github.io/node-npmtest/build..alpha..travis-ci.org/app/index.html)|
-| test-server-heroku : | [![heroku.com test-server](https://kaizhu256.github.io/node-npmtest/heroku-logo.75x25.png)](https://h1-npmtest-master.herokuapp.com) | [![heroku.com test-server](https://kaizhu256.github.io/node-npmtest/heroku-logo.75x25.png)](https://h1-npmtest-beta.herokuapp.com) | [![heroku.com test-server](https://kaizhu256.github.io/node-npmtest/heroku-logo.75x25.png)](https://h1-npmtest-alpha.herokuapp.com)|
-| test-report : | [![test-report](https://kaizhu256.github.io/node-npmtest/build..master..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/node-npmtest/build..master..travis-ci.org/test-report.html) | [![test-report](https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/test-report.html) | [![test-report](https://kaizhu256.github.io/node-npmtest/build..alpha..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/node-npmtest/build..alpha..travis-ci.org/test-report.html)|
-| coverage : | [![istanbul-coverage](https://kaizhu256.github.io/node-npmtest/build..master..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/node-npmtest/build..master..travis-ci.org/coverage.html/index.html) | [![istanbul-coverage](https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/coverage.html/index.html) | [![istanbul-coverage](https://kaizhu256.github.io/node-npmtest/build..alpha..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/node-npmtest/build..alpha..travis-ci.org/coverage.html/index.html)|
-| build-artifacts : | [![build-artifacts](https://kaizhu256.github.io/node-npmtest/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/node-npmtest/tree/gh-pages/build..master..travis-ci.org) | [![build-artifacts](https://kaizhu256.github.io/node-npmtest/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/node-npmtest/tree/gh-pages/build..beta..travis-ci.org) | [![build-artifacts](https://kaizhu256.github.io/node-npmtest/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/node-npmtest/tree/gh-pages/build..alpha..travis-ci.org)|
+| test-server-github : | [![github.com test-server](https://kaizhu256.github.io/node-npmdoc/GitHub-Mark-32px.png)](https://kaizhu256.github.io/node-npmdoc/build..master..travis-ci.org/app/index.html) | [![github.com test-server](https://kaizhu256.github.io/node-npmdoc/GitHub-Mark-32px.png)](https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/app/index.html) | [![github.com test-server](https://kaizhu256.github.io/node-npmdoc/GitHub-Mark-32px.png)](https://kaizhu256.github.io/node-npmdoc/build..alpha..travis-ci.org/app/index.html)|
+| test-server-heroku : | [![heroku.com test-server](https://kaizhu256.github.io/node-npmdoc/heroku-logo.75x25.png)](https://h1-npmdoc-master.herokuapp.com) | [![heroku.com test-server](https://kaizhu256.github.io/node-npmdoc/heroku-logo.75x25.png)](https://h1-npmdoc-beta.herokuapp.com) | [![heroku.com test-server](https://kaizhu256.github.io/node-npmdoc/heroku-logo.75x25.png)](https://h1-npmdoc-alpha.herokuapp.com)|
+| test-report : | [![test-report](https://kaizhu256.github.io/node-npmdoc/build..master..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/node-npmdoc/build..master..travis-ci.org/test-report.html) | [![test-report](https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/test-report.html) | [![test-report](https://kaizhu256.github.io/node-npmdoc/build..alpha..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/node-npmdoc/build..alpha..travis-ci.org/test-report.html)|
+| coverage : | [![istanbul-coverage](https://kaizhu256.github.io/node-npmdoc/build..master..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/node-npmdoc/build..master..travis-ci.org/coverage.html/index.html) | [![istanbul-coverage](https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/coverage.html/index.html) | [![istanbul-coverage](https://kaizhu256.github.io/node-npmdoc/build..alpha..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/node-npmdoc/build..alpha..travis-ci.org/coverage.html/index.html)|
+| build-artifacts : | [![build-artifacts](https://kaizhu256.github.io/node-npmdoc/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/node-npmdoc/tree/gh-pages/build..master..travis-ci.org) | [![build-artifacts](https://kaizhu256.github.io/node-npmdoc/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/node-npmdoc/tree/gh-pages/build..beta..travis-ci.org) | [![build-artifacts](https://kaizhu256.github.io/node-npmdoc/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/node-npmdoc/tree/gh-pages/build..alpha..travis-ci.org)|
 
 #### master branch
 - stable branch
@@ -67,10 +67,10 @@ the greatest app in the world!
 
 
 # quickstart web example
-![screenCapture](https://kaizhu256.github.io/node-npmtest/build/screenCapture.testExampleJs.browser.%252F.png)
+![screenCapture](https://kaizhu256.github.io/node-npmdoc/build/screenCapture.testExampleJs.browser.%252F.png)
 
 #### to run this example, follow the instruction in the script below
-- [example.js](https://kaizhu256.github.io/node-npmtest/build..beta..travis-ci.org/example.js)
+- [example.js](https://kaizhu256.github.io/node-npmdoc/build..beta..travis-ci.org/example.js)
 ```javascript
 /*
 example.js
@@ -80,13 +80,13 @@ quickstart example
 instruction
     1. save this script as example.js
     2. run the shell command:
-        $ npm install npmtest && PORT=8081 node example.js
+        $ npm install npmdoc && PORT=8081 node example.js
     3. play with the browser-demo on http://127.0.0.1:8081
 */
 
 
 
-/* istanbul instrument in package npmtest */
+/* istanbul instrument in package npmdoc */
 /*jslint
     bitwise: true,
     browser: true,
@@ -127,8 +127,8 @@ instruction
             : global;
         // init utility2_rollup
         local = local.global.utility2_rollup || (local.modeJs === 'browser'
-            ? local.global.utility2_npmtest
-            : require('npmtest'));
+            ? local.global.utility2_npmdoc
+            : require('npmdoc'));
         // export local
         local.global.local = local;
     }());
@@ -314,7 +314,7 @@ utility2-comment -->\n\
 utility2-comment -->\n\
 <script src="assets.utility2.rollup.js"></script>\n\
 <script src="jsonp.utility2._stateInit?callback=window.utility2._stateInit"></script>\n\
-<script src="assets.npmtest.rollup.js"></script>\n\
+<script src="assets.npmdoc.rollup.js"></script>\n\
 <script src="assets.example.js"></script>\n\
 <script src="assets.test.js"></script>\n\
 <!-- utility2-comment\n\
@@ -365,12 +365,12 @@ utility2-comment -->\n\
         local.assetsDict['/assets.example.js'] =
             local.assetsDict['/assets.example.js'] ||
             local.fs.readFileSync(__filename, 'utf8');
-        local.assetsDict['/assets.npmtest.rollup.js'] =
-            local.assetsDict['/assets.npmtest.rollup.js'] ||
+        local.assetsDict['/assets.npmdoc.rollup.js'] =
+            local.assetsDict['/assets.npmdoc.rollup.js'] ||
             local.fs.readFileSync(
                 // buildCustomOrg-hack
-                local.npmtest.__dirname +
-                    '/lib.npmtest.js',
+                local.npmdoc.__dirname +
+                    '/lib.npmdoc.js',
                 'utf8'
             ).replace((/^#!/), '//');
         local.assetsDict['/favicon.ico'] = local.assetsDict['/favicon.ico'] || '';
@@ -400,10 +400,10 @@ utility2-comment -->\n\
 ```
 
 #### output from browser
-![screenCapture](https://kaizhu256.github.io/node-npmtest/build/screenCapture.testExampleJs.browser.%252F.png)
+![screenCapture](https://kaizhu256.github.io/node-npmdoc/build/screenCapture.testExampleJs.browser.%252F.png)
 
 #### output from shell
-![screenCapture](https://kaizhu256.github.io/node-npmtest/build/screenCapture.testExampleJs.svg)
+![screenCapture](https://kaizhu256.github.io/node-npmdoc/build/screenCapture.testExampleJs.svg)
 
 
 
@@ -419,20 +419,20 @@ utility2-comment -->\n\
     "engines": {
         "node": ">=4.0"
     },
-    "homepage": "https://github.com/kaizhu256/node-npmtest",
+    "homepage": "https://github.com/kaizhu256/node-npmdoc",
     "keywords": [],
     "license": "MIT",
-    "main": "lib.npmtest.js",
-    "name": "npmtest",
-    "nameAlias": "npmtest",
-    "nameOriginal": "npmtest",
+    "main": "lib.npmdoc.js",
+    "name": "npmdoc",
+    "nameAlias": "npmdoc",
+    "nameOriginal": "npmdoc",
     "os": [
         "darwin",
         "linux"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/kaizhu256/node-npmtest.git"
+        "url": "https://github.com/kaizhu256/node-npmdoc.git"
     },
     "scripts": {
         "build-ci": "utility2 shReadmeTest build_ci.sh",
@@ -449,7 +449,7 @@ utility2-comment -->\n\
 
 
 # changelog of last 50 commits
-[![screenCapture](https://kaizhu256.github.io/node-npmtest/build/screenCapture.gitLog.svg)](https://github.com/kaizhu256/node-npmtest/commits)
+[![screenCapture](https://kaizhu256.github.io/node-npmdoc/build/screenCapture.gitLog.svg)](https://github.com/kaizhu256/node-npmdoc/commits)
 
 
 

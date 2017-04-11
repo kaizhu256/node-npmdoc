@@ -1,4 +1,4 @@
-/* istanbul instrument in package npmtest */
+/* istanbul instrument in package npmdoc */
 /*jslint
     bitwise: true,
     browser: true,

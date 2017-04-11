@@ -8,20 +8,20 @@
     "engines": {
         "node": ">=4.0"
     },
-    "homepage": "https://github.com/kaizhu256/node-npmtest",
+    "homepage": "https://github.com/kaizhu256/node-npmdoc",
     "keywords": [],
     "license": "MIT",
-    "main": "lib.npmtest.js",
-    "name": "npmtest",
-    "nameAlias": "npmtest",
-    "nameOriginal": "npmtest",
+    "main": "lib.npmdoc.js",
+    "name": "npmdoc",
+    "nameAlias": "npmdoc",
+    "nameOriginal": "npmdoc",
     "os": [
         "darwin",
         "linux"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/kaizhu256/node-npmtest.git"
+        "url": "https://github.com/kaizhu256/node-npmdoc.git"
     },
     "scripts": {
         "build-ci": "utility2 shReadmeTest build_ci.sh",

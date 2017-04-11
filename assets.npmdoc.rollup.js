@@ -1,4 +1,4 @@
-/* istanbul instrument in package npmtest */
+/* istanbul instrument in package npmdoc */
 /*jslint
     bitwise: true,
     browser: true,
@@ -40,10 +40,10 @@
         // init utility2_rollup
         local = local.global.utility2_rollup || local;
         // init lib
-        local.local = local.npmtest = local;
+        local.local = local.npmdoc = local;
         // init exports
         if (local.modeJs === 'browser') {
-            local.global.utility2_npmtest = local;
+            local.global.utility2_npmdoc = local;
         } else {
             module.exports = local;
             module.exports.__dirname = __dirname;
